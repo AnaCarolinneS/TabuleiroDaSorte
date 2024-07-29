@@ -26,7 +26,7 @@ public class Main {
         // Criação dos dados
         Dados dados = new Dados();
 
-        // Criação do controlador
+        // Criação do controlador..
         new TabuleiroController(painelTabuleiro, dados, jogadores);
     }
 }
